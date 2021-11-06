@@ -2,5 +2,6 @@
 /data/
 npm-debug.log
 .idea/
+/build
 package-lock.json
 yarn.lock
